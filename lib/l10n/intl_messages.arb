@@ -1,0 +1,133 @@
+{
+  "@@last_modified": "2018-06-27T19:34:18.505192",
+  "mainTitle": "Ballot",
+  "@mainTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addressInputTitle": "Voting Address",
+  "@addressInputTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "signInWithGoogle": "Sign in with Google",
+  "@signInWithGoogle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "votingAddressLabel": "Voting Address",
+  "@votingAddressLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lookup": "Lookup",
+  "@lookup": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "votingProfileTitle": "Voting Profile",
+  "@votingProfileTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "divisionsTitle": "Divisions",
+  "@divisionsTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "changeAddress": "Change Address",
+  "@changeAddress": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "votingLocationTitle": "Voting Location",
+  "@votingLocationTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "votingLocationsTitle": "Voting Locations",
+  "@votingLocationsTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pollingStationHoursLabel": "Voting Hours",
+  "@pollingStationHoursLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "earlyVoteSiteHoursLabel": "Early Voting Hours",
+  "@earlyVoteSiteHoursLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "dropOffHoursLabel": "Drop-off Location Hours",
+  "@dropOffHoursLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pollingStationDatesLabel": "Voting Dates",
+  "@pollingStationDatesLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "earlyVoteSiteDatesLabel": "Early Voting Dates",
+  "@earlyVoteSiteDatesLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "dropOffDatesLabel": "Drop-off Location Dates",
+  "@dropOffDatesLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "upcomingElectionHeader": "Ballot Information",
+  "@upcomingElectionHeader": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "contestsHeader": "Contests",
+  "@contestsHeader": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "electionUnknown": "Election unknown",
+  "@electionUnknown": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "contestTitle": "Contest",
+  "@contestTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "nullCandidates": "No candidates",
+  "@nullCandidates": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "candidateTitle": "Candidate",
+  "@candidateTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "required": "Required",
+  "@required": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "error": "Error",
+  "@error": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "all": "All",
+  "@all": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "loading": "Loading",
+  "@loading": {
+    "type": "text",
+    "placeholders": {}
+  }
+}
